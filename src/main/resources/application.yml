@@ -1,0 +1,9 @@
+spring:
+    application:
+        name: reactive
+
+server:
+    port: 8086
+
+application:
+    dummy_api_url: https://jsonplaceholder.typicode.com
